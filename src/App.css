@@ -36,12 +36,12 @@ body * {
   padding: 3rem;
   font-size: 3rem;
   color: white;
+  text-align: center;
 }
 
 h1, h2 {
-  text-indent: 10px;
+  text-align: center;
   color:#fff;
-
 }
 
 .container h2:first-of-type{
@@ -62,7 +62,6 @@ h1, h2 {
   top: 8%;
   left: 15%;
   opacity: 0.4;
-
 }
 
 .data-container{
@@ -88,7 +87,6 @@ h1, h2 {
   font-size: 1.4rem;
   border: none;
 }
-
 
 .form input {
   padding: 10px;
@@ -132,7 +130,6 @@ h1, h2 {
   font-size: 1.4rem;
   margin-top: -3px;
   color: #fff;
-
 }
 
 .square img {

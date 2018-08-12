@@ -41,6 +41,8 @@ class Main extends Component {
             <button onClick={this.search}> <i className="fas fa-search"></i> </button>
         </div>
 
+            <h2><i class="fas fa-chart-line"></i> DASHBOARD </h2> 
+
             <h2><i class="fas fa-globe-africa"></i> Location </h2> 
         
             <div className="data-container">
